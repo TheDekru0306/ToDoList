@@ -1,0 +1,44 @@
+D:\Visual Studio Projects\ToDoList\Data\bin\Debug\Data.dll.config
+D:\Visual Studio Projects\ToDoList\Data\bin\Debug\Data.dll
+D:\Visual Studio Projects\ToDoList\Data\bin\Debug\Data.pdb
+D:\Visual Studio Projects\ToDoList\Data\bin\Debug\EntityFramework.dll
+D:\Visual Studio Projects\ToDoList\Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio Projects\ToDoList\Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Visual Studio Projects\ToDoList\Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Visual Studio Projects\ToDoList\Data\bin\Debug\EntityFramework.xml
+D:\Visual Studio Projects\ToDoList\Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio Projects\ToDoList\Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Visual Studio Projects\ToDoList\Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Visual Studio Projects\ToDoList\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\ToDoList\Data\obj\Debug\Data.dll
+D:\Visual Studio Projects\ToDoList\Data\obj\Debug\Data.pdb
+C:\Users\Denny Krumov\Desktop\ToDoList\Data\bin\Debug\Data.dll.config
+C:\Users\Denny Krumov\Desktop\ToDoList\Data\bin\Debug\Data.dll
+C:\Users\Denny Krumov\Desktop\ToDoList\Data\bin\Debug\Data.pdb
+C:\Users\Denny Krumov\Desktop\ToDoList\Data\bin\Debug\EntityFramework.dll
+C:\Users\Denny Krumov\Desktop\ToDoList\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Denny Krumov\Desktop\ToDoList\Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Denny Krumov\Desktop\ToDoList\Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Denny Krumov\Desktop\ToDoList\Data\bin\Debug\EntityFramework.xml
+C:\Users\Denny Krumov\Desktop\ToDoList\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Denny Krumov\Desktop\ToDoList\Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Denny Krumov\Desktop\ToDoList\Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Denny Krumov\Desktop\ToDoList\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Denny Krumov\Desktop\ToDoList\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Denny Krumov\Desktop\ToDoList\Data\obj\Debug\Data.dll
+C:\Users\Denny Krumov\Desktop\ToDoList\Data\obj\Debug\Data.pdb
+C:\Users\deni_\OneDrive\Работен плот\ToDoList\Data\bin\Debug\Data.dll.config
+C:\Users\deni_\OneDrive\Работен плот\ToDoList\Data\bin\Debug\Data.dll
+C:\Users\deni_\OneDrive\Работен плот\ToDoList\Data\bin\Debug\Data.pdb
+C:\Users\deni_\OneDrive\Работен плот\ToDoList\Data\bin\Debug\EntityFramework.dll
+C:\Users\deni_\OneDrive\Работен плот\ToDoList\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\deni_\OneDrive\Работен плот\ToDoList\Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\deni_\OneDrive\Работен плот\ToDoList\Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\deni_\OneDrive\Работен плот\ToDoList\Data\bin\Debug\EntityFramework.xml
+C:\Users\deni_\OneDrive\Работен плот\ToDoList\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\deni_\OneDrive\Работен плот\ToDoList\Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\deni_\OneDrive\Работен плот\ToDoList\Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\deni_\OneDrive\Работен плот\ToDoList\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\deni_\OneDrive\Работен плот\ToDoList\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\deni_\OneDrive\Работен плот\ToDoList\Data\obj\Debug\Data.dll
+C:\Users\deni_\OneDrive\Работен плот\ToDoList\Data\obj\Debug\Data.pdb
