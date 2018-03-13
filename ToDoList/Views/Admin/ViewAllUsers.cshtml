@@ -1,0 +1,27 @@
+﻿@model List<ToDoList.Models.AdminViewModel>
+@{
+    ViewBag.Title = "ViewAllUsers";
+}
+
+<h2>ViewAllUsers</h2>
+
+<table class="table" style="table-layout: fixed">
+    <thead>
+        <tr>
+            <th scope="col"><h2>Email</h2></th>
+            <th scope="col"><h2>UserName</h2></th>
+            <th colspan="2" scope="col"><h2>Option</h2></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td style="word-wrap: break-word">@user.Email</td>
+                <td style="word-wrap: break-word">@user.UserName</td>
+                <td>@Html.ActionLink("Spectate", "UserLists", "Admin", new { id = user.Id }, new { @class = "btn btn-warning" })</td>
+                <td>@Html.ActionLink("DeleteUser", "DeleteUser", "Admin", new { id = user.Id }, new { @class = "btn btn-warning" })</td>
+            </tr>
+        }
+    </tbody>
+</table>

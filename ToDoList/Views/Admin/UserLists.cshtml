@@ -1,0 +1,32 @@
+﻿@model ToDoList.Models.AdminUserListViewModel
+
+<div class="container">
+    <div class="panel-group">
+        <div class="panel panel-primary">
+            <div class="panel-heading">@Model.Email</div>
+            <div class="panel-body">@Model.UserName</div>
+        </div>
+    </div>     
+</div>
+
+        <table class="table" style="table-layout: fixed">
+            <thead>
+                <tr>
+                    <th scope="col"><h2>Title</h2></th>
+                    <th scope="col"><h2>Content</h2></th>
+                    <th colspan="2" scope="col"><h2>Option</h2></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var list in Model.Lists)
+                {
+                    <tr>
+                        <td style="word-wrap: break-word">@list.Title</td>
+                        <td style="word-wrap: break-word">@list.Content</td>
+                        <td>@Html.ActionLink("Edit", "Edit", "List", new { id = list.Id }, new { @class = "btn btn-warning" })</td>
+                        <td>@Html.ActionLink("Delete", "Delete", "List", new { id = list.Id }, new { @class = "btn btn-warning" })</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+

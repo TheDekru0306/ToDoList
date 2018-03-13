@@ -1,6 +1,4 @@
-﻿@model ToDoList.Models.LoginViewModel
-
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8" />
@@ -24,15 +22,16 @@
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
                     @if (Request.IsAuthenticated)
-                    {
-                    <li>@Html.ActionLink("Create", "Create", "List")</li>
-                    <li>@Html.ActionLink("ViewAll", "ViewAll", "List")</li>
+                     {
+                        <li>@Html.ActionLink("Create", "Create", "List")</li>
+                        <li>@Html.ActionLink("ViewAll", "ViewAll", "List")</li>
 
-                        if (User.Identity.Name == "Denny Krumov")
-                        {
-                         <li>@Html.ActionLink("SendEmail", "SendEmail", "Email")</li>         
-                        }
-                    }
+                            if (User.Identity.Name == "Denny Krumov")
+                            {
+                                <li>@Html.ActionLink("SendEmail", "SendEmail", "Email")</li>
+                                <li>@Html.ActionLink("ViewUsers", "ViewAllUsers", "Admin")</li>
+                            }
+                     }
                 </ul>
                 @Html.Partial("_LoginPartial")
             </div>
